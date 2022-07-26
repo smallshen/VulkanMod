@@ -1,0 +1,8 @@
+.gradle
+.idea
+build
+run
+space.properties
+github.properties
+endoqa.optimization.kts
+endoqa.obfuscation.kts
